@@ -21,7 +21,7 @@ This project offers a production-ready pipeline to ingest complex documents (PDF
 - Multi-turn, multi-query support with semantic reranking
 
 ### AI-powered Answering
-- GPT-4 / LLM integration with context-aware prompt engineering
+- LLM integration with context-aware prompt engineering
 - JSON-function-call enabled structured answers that adhere to domain rules
 - Business-logic rule engine implementation for automated eligibility verdicts
 
