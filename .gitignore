@@ -1,0 +1,59 @@
+# Python cache and bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+llm_env/
+env/
+.env/
+.env
+
+# Environment variables files
+.env
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Temporary files
+tmp/
+*.tmp
+*.temp
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg
+*.eggs
+*.wheel
+
+# IDE files (optional)
+.idea/
+
+# Pinecone or other API keys stored locally (if you store locally)
+pinecone.env
+
+#pdfs
+.pdf
